@@ -1,0 +1,49 @@
+body {
+    background-color:black;
+    position: relative;
+    text-align: left;
+}
+
+span {
+    color: azure;
+    font-size: 20px;
+}
+h1{
+    color: beige;
+}
+img {
+    color:black ;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    margin-left:900px;
+    padding-left: 0;
+    float: left;
+
+}
+
+
+.main {
+    background-color:#301B3F;
+    height:400px;
+    margin-top: 100px;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.in {
+    color: purple;
+}
+span{
+    font-size: 20px;
+    text-align: left;;
+    color: #D7B19D;
+}
+th
+{
+    color: seashell;
+    font-size: 20px;
+}
+tr{
+    color: mediumorchid;
+}
